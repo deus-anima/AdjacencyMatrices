@@ -8,9 +8,6 @@ class graph
 {
 public:
     graph();
-//    int graphs;
-//    int node;
-//    int z,i,j,a[][10][10];
 };
 
 #endif // GRAPH_H
